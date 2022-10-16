@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuhasSDSU
-- 👀 I’m interested in Full Stack Web Development, Distributed System, MircroServices & Data Science
+- 👀 I’m interested in Full Stack Web Development, Distributed System, MircroServices & Micro-Front-Ends
 - 🌱 I’m currently learning MERN Stack
 
 <!---
