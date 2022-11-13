@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuhasSDSU
 - 👀 I’m interested in Full Stack Web Development, Distributed System, MircroServices & Micro-Front-Ends
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Micro Front end
 
 <!---
 SuhasSDSU/SuhasSDSU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
